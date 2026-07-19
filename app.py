@@ -1,0 +1,9 @@
+langchain==0.3.7
+langchain-cohere==0.3.1
+langchain-community==0.3.7
+langchain-core==0.3.15
+langchain-text-splitters==0.3.2
+cohere==5.11.0
+pypdf==5.1.0
+faiss-cpu==1.9.0
+gradio==5.6.0
